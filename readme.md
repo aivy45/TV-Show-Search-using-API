@@ -13,6 +13,8 @@
 #### Honest time to finish the project !
  - I had taken around 1.5 hours to finish this project.
 
+![image](pic.png)
+
 ### Link of the website
 - [Please Click Here](https://tv-show-aivy45.netlify.app/)
 
